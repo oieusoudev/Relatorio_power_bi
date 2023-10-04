@@ -1,10 +1,10 @@
 # Relatorio_power_bi
 <b>Primeiro relatório com power BI.</b>
 <br>
-Este é um exemplo de um relatório simples no qual foi utilizado um banco de dados fornecido pelo kaggle.
+<b>Este é um exemplo de um relatório simples no qual foi utilizado um banco de dados fornecido pelo kaggle.</b>
 </br>
 <br>		
-Nesse relatório consta 3 gráficos com as seguintes informações cruzadas:
+Nesse relatório consta <br>3 gráficos</br> com as seguintes informações cruzadas:
 </br>
 <br>
 1 - > O eixo X representa idade, e no eixo Y Glicose e Pressão sanguinea.
