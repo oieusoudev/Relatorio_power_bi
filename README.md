@@ -4,14 +4,14 @@
 <b>Este é um exemplo de um relatório simples no qual foi utilizado um banco de dados fornecido pelo kaggle.</b>
 </br>
 <br>		
-Nesse relatório consta <b>3 gráficos</b> com as seguintes informações cruzadas:
+Nesse relatório consta <b>gráficos</b> com as seguintes informações cruzadas:
 </br>
 <br>
-1 - > O eixo X representa idade, e no eixo Y Glicose e Pressão sanguinea.
+1 - > O eixo X representa <b>idade</b>, e no eixo Y <b>glicose e pressão sanguinea.</b>
 </br>
 <br>
-2 - > O eixo X representa Grávidas , o eixo Y da COLUNA reperesenta a mediana de diabetes e o eixo Y da LINHA representa massa corpórea ja que é um dado importante para prever diabete.
+2 - > O eixo X representa <b>grávidas</b>, o eixo Y da COLUNA reperesenta a <b>mediana de diabetes</b> e o eixo Y da LINHA representa <b>massa corpórea</b> ja que é um dado importante para prever diabete.
 </br>
 <br>
-3 - > O eixo X representa idade e o eixo Y a contagem de OUTCOMES (sim ou nao para diabetes) para obter o dado de quais sao as idades mais afetadas pela diabete.
+3 - > O eixo X representa <b>idade</b> e o eixo Y a contagem de <b>OUTCOMES</b> (sim ou nao para diabetes) para obter o dado de quais sao as idades mais afetadas pela diabete.
 </br>
