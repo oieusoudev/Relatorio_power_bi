@@ -1,5 +1,5 @@
 # Relatorio_power_bi
-Primeiro relatório com power BI.
+<b>Primeiro relatório com power BI.</b>
 <br>
 Este é um exemplo de um relatório simples no qual foi utilizado um banco de dados fornecido pelo kaggle.
 </br>
